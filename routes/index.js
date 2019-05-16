@@ -1005,10 +1005,10 @@ router.get('**', (req, res) => {
   next(err);	
 })
 */
-/*
+
 router.get('**', (req, res) => {
 	return res.redirect('https://i-test-cmfcd.herokuapp.com/')
 })
-*/
+
 /* --------------------------------------------------------------------- */
 module.exports = router;
