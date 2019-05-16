@@ -1007,7 +1007,7 @@ router.get('**', (req, res) => {
 */
 /*
 router.get('**', (req, res) => {
-	return res.redirect(' https://hamzamaster1.herokuapp.com/')
+	return res.redirect('https://i-test-cmfcd.herokuapp.com/')
 })
 */
 /* --------------------------------------------------------------------- */
